@@ -1188,8 +1188,11 @@ strong {
   }
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 451px) {
   .navbar-brand {
       font-size: 16px; /* Imposta la dimensione desiderata */
   }
 }
+
+
+
